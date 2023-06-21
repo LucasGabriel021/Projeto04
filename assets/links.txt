@@ -1,0 +1,3 @@
+https://www.chartjs.org/docs/2.7.3/getting-started/usage.html
+
+CDN = 2.7.3 do ChartJS
